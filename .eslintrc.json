@@ -34,7 +34,9 @@
       "import/prefer-default-exports":"off",
       "import/extensions":["error", "ignorePackages", {"ts":"never", "tsx":"never"}],
       "react/jsx-props-no-spreading":"off",
-      "react/prop-types":"off"
+      "react/prop-types":"off",
+      "react/jsx-one-expression-per-line":"off",
+      "no-unused-expressions":"off"
     },
     "settings": {
       "import/resolver":{
